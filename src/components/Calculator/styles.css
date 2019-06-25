@@ -1,0 +1,17 @@
+.App-calculator {
+  width: 32rem;
+}
+
+.App-calculator-cols {
+  display: flex;
+}
+
+.App-calculator-operations {
+  width: 8rem;
+}
+
+.App-calculator-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  width: 24rem;
+}

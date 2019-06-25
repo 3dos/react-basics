@@ -1,0 +1,17 @@
+.App-button {
+  align-items: center;
+  background: #ccc;
+  border: 1px solid #999;
+  display: flex;
+  font-size: 1.5rem;
+  height: 8rem;
+  justify-content: center;
+  outline: none;
+  padding: 0.2rem;
+  width: 8rem;
+}
+
+.App-button.operation {
+  background: #f90;
+  color: #fff;
+}
